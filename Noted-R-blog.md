@@ -5,5 +5,5 @@ To Learn more
 * [Google's R Style Guide][1]
 [1]:http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html
 
-[R-bloggers](http://www.r-bloggers.com/)
+* [R-bloggers](http://www.r-bloggers.com/)
 
